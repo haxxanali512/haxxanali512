@@ -75,16 +75,15 @@
 
 
 <br>
-<!-- <div align="center">
+<div align="center">
 
   <h1> Connect with me </h1>
   <br>
   <p></p>
   <p align="center">
-    	<a href="https://muneebfarooqi.com/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/test-account.png"/></a>
-	<a href="https://github.com/farooki/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-    	<a href="https://wa.me"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+    	<a href="http://devfussion.herokuapp.com/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/test-account.png"/></a>
+	<a href="https://github.com/haxxanali512/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/haxxan-ali/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+    	<a href="https://wa.me/923093122220"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
 </p>
-</div> -->
+</div>
