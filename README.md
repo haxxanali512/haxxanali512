@@ -1,23 +1,24 @@
-<h1 align="center"> Hello, I'm Muhammad Hamza Asif 👋 </h1>
+<h1 align="center"> Hi There, I'm Hassan Ali 👋 </h1>
 <div>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaasif4981-sudo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haxxanali512&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=issues" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaasif4981-sudo&langs_count=5&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxanali512&langs_count=5&hide_title=true&hide_border=true" />
 </a><br>
 </div>
 <br>
 <h1 align="center">Tools and Skills </h1>
 
-
+![PHP](https://img.shields.io/badge/-php-000?&logo=PHP)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-aws-000?&logo=Aws)
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
@@ -82,8 +83,8 @@
   <p align="center">
     	<a href="https://muneebfarooqi.com/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/test-account.png"/></a>
 	<a href="https://github.com/farooki/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/muneeb-ahmad-671a44123/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/muneebfarooqii"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-    	<a href="https://wa.me/923364658144"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+	<a href="https://www.linkedin.com/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://twitter.com"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+    	<a href="https://wa.me"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
 </p>
 </div> -->
