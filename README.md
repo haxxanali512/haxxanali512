@@ -1,13 +1,4 @@
 <h1 align="center"> Hi There, I'm Hassan Ali 👋 </h1>
-<div>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haxxanali512&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=issues" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxanali512&langs_count=5&hide_title=true&hide_border=true" />
-</a><br>
-</div>
 <br>
 <h1 align="center">Tools and Skills </h1>
 
