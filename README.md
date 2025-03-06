@@ -1,80 +1,22 @@
-<h1 align="center"> Hi There, I'm Hassan Ali 👋 </h1>
-<br>
-<h1 align="center">Tools and Skills </h1>
+👋 Hi, I'm Hassan!
+🚀 Full-Stack Developer | Solution Architect | Tech Enthusiast
 
-![PHP](https://img.shields.io/badge/-php-000?&logo=PHP)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-aws-000?&logo=Aws)
+I specialize in designing, developing, deploying, and debugging large-scale web and mobile applications. With a strong focus on scalability and performance, I build robust digital solutions that drive business growth.
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-![SQlite](https://img.shields.io/badge/-SQlite-000?&logo=SQlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![RubyonRails](https://img.shields.io/badge/-RubyonRails-000?&logo=RubyonRails)
+🛠️ Tech Stack & Expertise
+💻 Frontend: React.js, Next.js, Redux, TailwindCSS, TypeScript
+⚙️ Backend: Node.js, Express.js, Ruby on Rails, GraphQL, REST APIs
+🛢️ Databases: PostgreSQL, MongoDB, MySQL
+☁️ DevOps & Deployment: Docker, AWS, Capistrano, CI/CD Pipelines
+📱 Mobile Development: React Native
+🛠️ Other Tools: GitHub Actions, Jenkins, Retool, Active Storage
 
+🚀 What I’m Working On
+🔹 Building internal data tools to improve operational efficiency
+🔹 Exploring AI & automation for enhanced development workflows
+🔹 Writing about modern web development trends on LinkedIn
 
-
-
-<p align="left">
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> 
-  </a>
-  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> 
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> 
-  </a> 
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> 
-  </a> 
-</p>
-
-
-<br>
-<div align="center">
-
-  <h1> Connect with me </h1>
-  <br>
-  <p></p>
-  <p align="center">
-    	<a href="http://devfussion.herokuapp.com/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/test-account.png"/></a>
-	<a href="https://github.com/haxxanali512/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/haxxan-ali/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-    	<a href="https://wa.me/923093122220"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
-</p>
-</div>
+📫 Let’s Connect!
+💼 LinkedIn: https://www.linkedin.com/in/hassanali512/
+🌐 Portfolio: https://thehassanali.com
+📧 Email: engg.hassan512@gmail.com
